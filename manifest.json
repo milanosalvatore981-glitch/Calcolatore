@@ -1,0 +1,27 @@
+{
+  "name": "Calc.1 - Calcolo Penna Insulina",
+  "short_name": "Calc.1",
+  "description": "App per il calcolo della penna insulina per colazione, pranzo e cena",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#d3d3d3",
+  "theme_color": "#d3d3d3",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' fill='%2387ceeb'/%3E%3Ctext x='96' y='120' font-size='100' text-anchor='middle' fill='white' font-family='Arial, sans-serif' font-weight='bold'%3EC1%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%2387ceeb'/%3E%3Ctext x='256' y='320' font-size='280' text-anchor='middle' fill='white' font-family='Arial, sans-serif' font-weight='bold'%3EC1%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "medical", "utilities"],
+  "lang": "it",
+  "dir": "ltr"
+}
